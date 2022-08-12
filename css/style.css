@@ -536,7 +536,7 @@ i, cite, em, var, address, dfn {
     /*transform: translateY(-125px);*/
     position: relative;
     z-index: 100;
-    margin-top: -125px; }
+    margin-top: -25px; }
     .section.overlap > .container {
       background-color: #fff;
       padding-top: 20px; }
